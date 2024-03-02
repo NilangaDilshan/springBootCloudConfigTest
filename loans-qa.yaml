@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Eazybank Loans API"
+  contactDetails:
+    name: "Dimmu - QA Lead"
+    email: "Dimmu@gmail.com"
+  onCallSupport:
+    - (777)777-1234
+    - (777)777-1256

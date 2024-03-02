@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank Loans API"
+  contactDetails:
+    name: "Nila Dil Loku"
+    email: "nilaDil@gmail.com"
+  onCallSupport:
+    - (111)111-1234
+    - (111)111-1256

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazybank Cards API"
+  contactDetails:
+    name: "Slayer - Product Owner"
+    email: "slayer@gmail.com"
+  onCallSupport:
+    - (666)666-1234
+    - (666)666-1256
