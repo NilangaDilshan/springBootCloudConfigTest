@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazybank Accounts API"
+  message: "Welcome to Eazybank Accounts PROD API"
   contactDetails:
     name: "Slayer- Product Owner"
-    email: "slayer@gmail.com"
+    email: "{cipher}b6a3e737b14b72fc48d00df4e0491178917bab8b774f6929cc65634c912450266c96c330bc0619587e5a9204ac676331"
   onCallSupport:
     - (666)666-1234
     - (666)666-1256
