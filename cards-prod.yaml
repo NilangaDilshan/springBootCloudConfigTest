@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Eazybank Cards PRODUCTION API"
+  message: "Welcome to Eazybank Cards webhook PRODUCTION API"
   contactDetails:
     name: "Slayer - Product Owner"
     email: "slayer@gmail.com"
