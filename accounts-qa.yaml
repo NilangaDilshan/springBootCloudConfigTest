@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Eazybank Accounts API"
+  message: "Welcome to Eazybank Accounts QA API"
   contactDetails:
     name: "Dimmu - QA Lead"
     email: "Dimmu@gmail.com"
